@@ -1,4 +1,4 @@
-# Python Secure Password Vault
+# Secure Python Password Vault
 
 A command-line password manager built with Python. This project uses MySQL for secure database storage and the `cryptography` library to encrypt all passwords. A master password (using hashing) protects access to the vault.
 

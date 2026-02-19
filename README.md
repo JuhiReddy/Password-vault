@@ -13,8 +13,8 @@ A command-line password manager built with Python. This project uses MySQL for s
 
 1.  **Clone the repository:**
     ```sh
-    git clone https://github.com/Mohammed-Zain-py/python-password-vault.git
-    cd python-password-vault
+    git clone https://github.com/JuhiReddy/Password-vault.git
+    cd Password-vault
     ```
 2.  **Create and activate a virtual environment:**
     ```sh
